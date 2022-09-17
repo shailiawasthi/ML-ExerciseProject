@@ -1,6 +1,6 @@
 ---
 title: Predict the manner in which we did the exercise
-author: "Krishna Prasad"
+author: "AA - help from Net "
 date: "19 June 2016"
 output: html_document
 ---
